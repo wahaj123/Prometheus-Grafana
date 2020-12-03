@@ -10,26 +10,6 @@ It's only for develop environments and **learn how-to use Prometheus monitoring*
 * `docker-compose` installed.
 * `docker` version 18.06.0+ or above. 
 
-## Quick start
-
-### Initialize Stack
-
-* Deploy configs.
-* Started containers.
-
-```bash
-$ ./initialize_stack.sh
-```
-
-### Remove Stack
-
-* Remove configs.
-* Stop and remove containers.
-
-```bash
-$ ./remove_stack.sh
-```
-
 ## Services
 
 ### Prometheus
