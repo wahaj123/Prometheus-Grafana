@@ -62,10 +62,4 @@ Check the currently `configs/grafana/provisioning` folders to see the demo confi
 * **Image**: prom/node-exporter:latest
 * **Port**: 9100
 
-## Contributing
 
-Refer to [CONTRIBUTING.md](https://github.com/ialejandro/prometheus-stack/blob/master/CONTRIBUTING.md).
-
-## License
-
-Apache License 2.0. Refer to [LICENSE](https://github.com/ialejandro/prometheus-stack/blob/master/LICENSE).
